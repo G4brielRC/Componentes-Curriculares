@@ -1,4 +1,4 @@
-Formação Técnica Análise e Desenvolvimento de Sistemas
+Formação Técnica Análise e Desenvolvimento de Sistemas ETEC
 
 Componentes Curriculares
 
@@ -28,3 +28,4 @@ Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Desen
 Qualidade e Teste de Software 
 
 Sistemas Embarcados 
+
